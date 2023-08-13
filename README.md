@@ -3,7 +3,8 @@
 - HTML5
 - CSS3
 - BEM
+- JS
 
-Используется Flex layout, Grid layout, меню-бургер, карты. Присутствует адаптивность и отзывчивость.
+Используется Flex layout, Grid layout, меню-бургер. Присутствует адаптивность и отзывчивость.
 
 [Смотреть здесь](https://quverok.github.io/RoomTiBet/)
